@@ -1,4 +1,4 @@
-import { enableSound } from "@/app/utils/enableSound";
+import { enableSound } from "../../utils/enableSound";
 
 const ClickBtn = ({ item, power, msg, vol }) => {
   const { id, nameBtn, src, parentId } = item;

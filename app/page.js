@@ -1,5 +1,9 @@
 "use client";
 
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./style/styles.css";
+import "./style/switch.css";
+
 import Card from "./component/Card";
 
 const DrumMachine = () => {
